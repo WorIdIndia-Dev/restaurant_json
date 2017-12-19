@@ -1,14 +1,15 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  [{RestaurantId: 1, RestaurantName: "SeaBlue Restaurant", Lunch: "Closed",…},…]
+0
+:
+{RestaurantId: 1, RestaurantName: "SeaBlue Restaurant", Lunch: "Closed",…}
+1
+:
+{RestaurantId: 4, RestaurantName: "Pacific Coast ", Lunch: "Closed", LunchDelivery: "Not-Available",…}
+2
+:
+{RestaurantId: 2, RestaurantName: "Palos Verdes", Lunch: "Closed", LunchDelivery: "Not-Available",…}
+3
+:
+{RestaurantId: 7, RestaurantName: "Pacific Coast Hwy ", Lunch: "Closed",…}
 }
