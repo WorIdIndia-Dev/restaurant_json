@@ -1,15 +1,40 @@
 {
-  [{RestaurantId: 1, RestaurantName: "SeaBlue Restaurant", Lunch: "Closed",…},…]
-0
-:
-{RestaurantId: 1, RestaurantName: "SeaBlue Restaurant", Lunch: "Closed",…}
-1
-:
-{RestaurantId: 4, RestaurantName: "Pacific Coast ", Lunch: "Closed", LunchDelivery: "Not-Available",…}
-2
-:
-{RestaurantId: 2, RestaurantName: "Palos Verdes", Lunch: "Closed", LunchDelivery: "Not-Available",…}
-3
-:
-{RestaurantId: 7, RestaurantName: "Pacific Coast Hwy ", Lunch: "Closed",…}
+  [
+    {
+        "RestaurantId": 1,
+        "RestaurantName": "SeaBlue Restaurant",
+        "Lunch": "Open",
+        "LunchDelivery": "Available",
+        "Dinner": "Closed",
+        "DinnerDelivery": "Not-Available",
+        "Distance": 0.076607732605015
+    },
+    {
+        "RestaurantId": 4,
+        "RestaurantName": "Pacific Coast ",
+        "Lunch": "Closed",
+        "LunchDelivery": "Not-Available",
+        "Dinner": "Closed",
+        "DinnerDelivery": "Not-Available",
+        "Distance": 3.92545806020592
+    },
+    {
+        "RestaurantId": 2,
+        "RestaurantName": "Palos Verdes",
+        "Lunch": "Closed",
+        "LunchDelivery": "Not-Available",
+        "Dinner": "Closed",
+        "DinnerDelivery": "Not-Available",
+        "Distance": 4.11950344787347
+    },
+    {
+        "RestaurantId": 7,
+        "RestaurantName": "Pacific Coast Hwy ",
+        "Lunch": "Closed",
+        "LunchDelivery": "Not-Available",
+        "Dinner": "Closed",
+        "DinnerDelivery": "Not-Available",
+        "Distance": 4.5005205776438
+    }
+]
 }
